@@ -18,6 +18,11 @@ My name is Htet Aung Liwn. Front-End developer specializing in React, skilled in
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/-Framer%20Motion-black?logo=framer&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-blue?logo=vite&logoColor=white)
+![Netlify](https://img.shields.io/badge/-Netlify-black?logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-blue?logo=render&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white)
+
 
 ## Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stormhurri) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/htet-aung-lwin-193707311/) 
