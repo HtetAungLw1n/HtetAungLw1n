@@ -33,5 +33,6 @@ Hey there — I'm Htet Aung Lwin, a full-stack dev with a taste for clean code a
 
 ## 🌐 Connect With Me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stormhurri)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/htet-aung-lwin/))
+📫 **Email:** [htetaunglwin.canon@gmail.com](mailto:htetaunglwin.canon@gmail.com)  
+📸 **Instagram:** [@stormhurri](https://www.instagram.com/stormhurri/)  
+💼 **LinkedIn:** [linkedin.com/in/htet-aung-lwin](https://www.linkedin.com/in/htet-aung-lwin)
