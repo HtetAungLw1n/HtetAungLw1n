@@ -4,11 +4,7 @@
 **HtetAungLw1n/HtetAungLw1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Hey there — I'm Htet Aung Lwin, a full-stack dev with a taste for clean code and interdimensional interfaces. I specialize in **React** and bring the magic of **TypeScript** and **Next.js** to the party. Whether it's smooth animations with Framer Motion or lightning-fast UIs with Tailwind CSS, I'm the guy who builds responsive, intuitive, and just plain awesome web experiences.  
-
-- “Tests? You mean like if statements that scream when they fail? Yeah, I write those.”
-
----
+Hey there — I'm Htet Aung Lwin, a full-stack dev with a taste for clean code and interdimensional interfaces. I specialize in **React** and bring the magic of **TypeScript** and **Laravel** to the party. Whether it's smooth animations with Framer Motion or lightning-fast UIs with Tailwind CSS, I'm the guy who builds responsive, intuitive, and awesome web experiences.
 
 ## 🧰 Tech Stack:
 
