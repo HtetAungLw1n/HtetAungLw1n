@@ -1,4 +1,4 @@
-## 🧪 FULL-STACK DEVELOPER
+## FULL-STACK DEVELOPER
 
 <!--
 **HtetAungLw1n/HtetAungLw1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +6,7 @@
 
 Hey there — I'm Htet Aung Lwin, a full-stack dev with a taste for clean code and interdimensional interfaces. I specialize in **React** and bring the magic of **TypeScript** and **Laravel** to the party. Whether it's smooth animations with Framer Motion or lightning-fast UIs with Tailwind CSS, I'm the guy who builds responsive, intuitive, and awesome web experiences.
 
-## 🧰 Tech Stack:
+## Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
@@ -26,7 +26,7 @@ Hey there — I'm Htet Aung Lwin, a full-stack dev with a taste for clean code a
 ![Netlify](https://img.shields.io/badge/-Netlify-black?logo=netlify&logoColor=white)
 
 
-## 🌐 Connect With Me:
+## Connect With Me:
 
 📫 **Email:** [htetaunglwin.canon@gmail.com](mailto:htetaunglwin.canon@gmail.com)  
 📸 **Instagram:** [@stormhurri](https://www.instagram.com/stormhurri/)  
