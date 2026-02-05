@@ -1,4 +1,4 @@
-## Hey there — I'm Htet Aung Lwin
+## Name is Htet Aung Lwin
 
 <!--
 **HtetAungLw1n/HtetAungLw1n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
